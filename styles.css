@@ -1,0 +1,25 @@
+/* Original CSS styles */
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+.w3-sidebar {
+    background-color: #111;
+}
+
+.w3-bar-item {
+    color: #fff;
+}
+
+.w3-button {
+    background-color: #444;
+    color: #fff;
+}
+
+.w3-padding-large {
+    padding: 16px;
+}
+
+/* Add more styles as needed */
